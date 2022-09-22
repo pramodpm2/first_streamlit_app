@@ -2,7 +2,7 @@ import streamlit as st
 st.title("hello world")
 
 
-st.header("breakfast menu")
-st.text("omega")
-st.text("kale")
-st.text("hard")
+streamlit.header('Breakfast Menu')
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('Kale, Spinach & Rocket Smoothie')
+streamlit.text('Hard-Boiled Free-Range Egg')
