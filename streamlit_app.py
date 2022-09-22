@@ -1,5 +1,5 @@
-import streamlit as st
-st.title("hello world")
+import streamlit 
+streamlit.title("hello world")
 
 
 streamlit.header(' Breakfast Menu')
